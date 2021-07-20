@@ -1,0 +1,3 @@
+Image Identification -- https://teachablemachine.withgoogle.com/models/krEhHeDD5/
+
+Family Identification -- https://teachablemachine.withgoogle.com/models/760m9BnhH/
